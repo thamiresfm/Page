@@ -8,6 +8,6 @@ title: Portfólio de Testes Automatizados
 
 Aqui estão listados meus projetos de testes automatizados:
 
-1. [Projeto de Teste Automatizado 1](projeto1.md)
-2. [Projeto de Teste Automatizado 2](projeto2.md)
-3. [Projeto de Teste Automatizado 3](projeto3.md)
+1. [Projeto de Teste API 1](https://github.com/thamiresfm/TesteDeAPI)
+2. [Projeto de Teste Web 2](https://github.com/thamiresfm/TestWeb)
+3. [Projeto de Teste Performance 3](https://github.com/thamiresfm/TestePerformance)
