@@ -5,24 +5,17 @@ layout: default
 
 <!-- # Thamires Fernandes Mendes - Portfólio -->
 
-<!-- > Aqui estão listados meus projetos de testes automatizados: -->
+> Aqui estão listados meus projetos de testes automatizados:
 
-> Bem-vindo ao meu portfólio! Aqui você encontrará alguns dos meus principais projetos de testes automatizados.
+### 1. [Projeto de Teste Automatizado Web ](https://github.com/thamiresfm/TestWeb)
 
-> 🚀 **Projetos:**
 
-### 1. 🌐 [Projeto de Teste Automatizado Web](https://github.com/thamiresfm/TestWeb)
-- **Descrição:** Testes de automação para aplicações web utilizando ferramentas como Selenium e Cypress.
 
-### 2. 🛠️ [Projeto de Teste Automatizado de API](https://github.com/thamiresfm/TesteDeAPI)
-- **Descrição:** Testes de automação para APIs REST utilizando frameworks como Postman e RestAssured.
+### 2. [Projeto de Teste Automatizado de API ](https://github.com/thamiresfm/TesteDeAPI)
 
-### 3. ⚡ [Projeto de Teste Automatizado de Performance](https://github.com/thamiresfm/TestePerformance)
-- **Descrição:** Testes de performance com ferramentas como JMeter e Gatling para garantir a eficiência e robustez das aplicações.
 
----
 
-🎯 **Fique à vontade para explorar e me contatar caso tenha dúvidas ou sugestões!**
+### 3. [Projeto de Teste Automatizado de Performance ](https://github.com/thamiresfm/TestePerformance)
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
