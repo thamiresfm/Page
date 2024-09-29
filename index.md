@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# 🚀 Meus Projetos de Testes Automatizados
+# Thamires Fernandes Mendes
+## 🚀 Meus Projetos de Testes Automatizados
 
 Aqui estão alguns dos meus projetos favoritos na área de **testes automatizados**, onde explorei diferentes ferramentas e metodologias para garantir a qualidade do software.
 
