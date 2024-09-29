@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<!-- # Thamires Fernandes Mendes - Portfólio
+<!-- # Thamires Fernandes Mendes - Portfólio -->
 
 > Aqui estão listados meus projetos de testes automatizados:
 
@@ -15,7 +15,7 @@ layout: default
 
 
 
-## 3. [Projeto de Teste Automatizado 3](https://github.com/thamiresfm/TestePerformance) -->
+## 3. [Projeto de Teste Automatizado 3](https://github.com/thamiresfm/TestePerformance)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
