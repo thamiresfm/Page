@@ -2,9 +2,12 @@
 layout: default
 ---
 
-# 📝 Thamires Fernandes Mendes - Portfólio
 
-Bem-vindo ao meu portfólio! Aqui você encontrará alguns dos meus principais projetos de testes automatizados.
+<!-- # Thamires Fernandes Mendes - Portfólio -->
+
+<!-- > Aqui estão listados meus projetos de testes automatizados: -->
+
+> Bem-vindo ao meu portfólio! Aqui você encontrará alguns dos meus principais projetos de testes automatizados.
 
 > 🚀 **Projetos:**
 
